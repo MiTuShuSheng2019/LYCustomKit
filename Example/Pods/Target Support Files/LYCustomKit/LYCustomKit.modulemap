@@ -1,0 +1,6 @@
+framework module LYCustomKit {
+  umbrella header "LYCustomKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

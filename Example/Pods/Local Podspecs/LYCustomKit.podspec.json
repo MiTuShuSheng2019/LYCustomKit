@@ -1,0 +1,22 @@
+{
+  "name": "LYCustomKit",
+  "version": "0.1.0",
+  "summary": "A short description of LYCustomKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/904101287@qq.com/LYCustomKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "904101287@qq.com": "yi.liu01@happy-seed.com"
+  },
+  "source": {
+    "git": "https://github.com/904101287@qq.com/LYCustomKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LYCustomKit/Classes/**/*"
+}

@@ -61,10 +61,10 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8FAC3007A31C7FB62D11C17F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8FAC3007A31C7FB62D11C17F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		9AE9E968E68026796F2194FB /* Pods-LYCustomKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYCustomKit_Example.release.xcconfig"; path = "Target Support Files/Pods-LYCustomKit_Example/Pods-LYCustomKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		BF61B4C8205C5D24A6CEB38F /* LYCustomKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LYCustomKit.podspec; path = ../LYCustomKit.podspec; sourceTree = "<group>"; };
-		D3EF0A958538B58FCB773987 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BF61B4C8205C5D24A6CEB38F /* LYCustomKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LYCustomKit.podspec; path = ../LYCustomKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D3EF0A958538B58FCB773987 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F077EB7610147DC67522CB1A /* Pods-LYCustomKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYCustomKit_Example.debug.xcconfig"; path = "Target Support Files/Pods-LYCustomKit_Example/Pods-LYCustomKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		FF43A0973D91DA9F7E58B33E /* Pods-LYCustomKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYCustomKit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LYCustomKit_Tests/Pods-LYCustomKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -193,7 +193,6 @@
 				FF43A0973D91DA9F7E58B33E /* Pods-LYCustomKit_Tests.debug.xcconfig */,
 				54B23145754D23807375742C /* Pods-LYCustomKit_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +258,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
