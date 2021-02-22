@@ -22,7 +22,7 @@ pod 'LYCustomKit'
 
 ## Author
 
-904101287@qq.com, yi.liu01@happy-seed.com
+小燚哥
 
 ## License
 
