@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/MiTuShuSheng2019/LYCustomKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '小燚哥' }
+  s.author           = { '904101287@qq.com' => 'yi.liu01@happy-seed.com' }
   s.source           = { :git => 'https://github.com/MiTuShuSheng2019/LYCustomKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
