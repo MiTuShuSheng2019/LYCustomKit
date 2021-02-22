@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of LYCustomKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/904101287@qq.com/LYCustomKit",
+  "homepage": "https://github.com/MiTuShuSheng2019/LYCustomKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "904101287@qq.com": "yi.liu01@happy-seed.com"
   },
   "source": {
-    "git": "https://github.com/904101287@qq.com/LYCustomKit.git",
+    "git": "https://github.com/MiTuShuSheng2019/LYCustomKit.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LYCustomKit/Classes/**/*"
+  "source_files": "LYCustomKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
 }
